@@ -1,0 +1,10 @@
+.GIFS_HOME{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    height: 1500px;
+}
+.GIF_HOME{
+    height: 100px;
+    margin: 9px;
+    margin-bottom: 10px;
+}
